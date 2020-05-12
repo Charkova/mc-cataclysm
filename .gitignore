@@ -1,0 +1,1283 @@
+
+.mixin.out/audit/mixin_implementation_report.csv
+.mixin.out/audit/mixin_implementation_report.txt
+.ReAuth.cfg
+astralsorcery/gatewayFilter/worldFilter.dat
+BotaniaVars.dat
+config/abyssalcraft.cfg
+config/actuallyadditions.cfg
+config/Albedo.cfg
+config/Animus.cfg
+config/aoa3/entities_config.cfg
+config/aoa3/main_config.cfg
+config/aoa3/ore_config.cfg
+config/aoa3/structure_config.cfg
+config/apotheosis/apotheosis.cfg
+config/apotheosis/deadly.cfg
+config/apotheosis/enchantability.cfg
+config/apotheosis/enchantment_module.cfg
+config/apotheosis/enchantments.cfg
+config/apotheosis/garden.cfg
+config/apotheosis/names.cfg
+config/apotheosis/potion.cfg
+config/apotheosis/spawner.cfg
+config/appleskin.cfg
+config/AppliedEnergistics2/AppliedEnergistics2.cfg
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/Facades.cfg
+config/AppliedEnergistics2/items.csv
+config/AppliedEnergistics2/VersionChecker.cfg
+config/aroma1997/aroma1997core.cfg
+config/aroma1997/aroma1997sdimension.cfg
+config/aroma1997/aroma1997sdimension_gen.json
+config/astralsorcery.cfg
+config/astralsorcery/aevitas_ore_perk.cfg
+config/astralsorcery/amulet_enchantments.cfg
+config/astralsorcery/fluid_rarities.cfg
+config/astralsorcery/herdable_animals_blacklist.cfg
+config/astralsorcery/mineralis_ritual.cfg
+config/astralsorcery/perk_void_trash_replacement.cfg
+config/astralsorcery/treasure_shrine.cfg
+config/baubles.cfg
+config/betterbuilderswands.cfg
+config/bibliocraft.cfg
+config/biomesoplenty/biome_ids.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/alps.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/alps_foothills.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/bamboo_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/bayou.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/bog.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/boreal_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/brushland.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/chaparral.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/cherry_blossom_grove.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/cold_desert.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/coniferous_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/coral_reef.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/corrupted_sands.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/crag.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/dead_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/dead_swamp.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/eucalyptus_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/fen.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/flower_field.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/flower_island.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/fungi_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/glacier.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/grassland.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/gravel_beach.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/grove.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/highland.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/kelp_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/land_of_lakes.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/lavender_fields.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/lush_desert.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/lush_swamp.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/mangrove.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/maple_woods.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/marsh.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/meadow.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/moor.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/mountain.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/mountain_foothills.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/mystic_grove.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/oasis.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/ominous_woods.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/orchard.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/origin_beach.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/origin_island.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/outback.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/overgrown_cliffs.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/pasture.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/phantasmagoric_inferno.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/prairie.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/quagmire.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/rainforest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest_edge.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/sacred_springs.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/seasonal_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/shield.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/shrubland.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_coniferous_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_forest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_tundra.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/steppe.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/temperate_rainforest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_island.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_rainforest.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/tundra.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/undergarden.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/visceral_heap.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/volcanic_island.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/wasteland.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/wetland.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/white_beach.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/woodland.json
+config/biomesoplenty/biomes/defaults/biomesoplenty/xeric_shrubland.json
+config/biomesoplenty/biomes/defaults/vanilla/beaches.json
+config/biomesoplenty/biomes/defaults/vanilla/birch_forest.json
+config/biomesoplenty/biomes/defaults/vanilla/birch_forest_hills.json
+config/biomesoplenty/biomes/defaults/vanilla/desert.json
+config/biomesoplenty/biomes/defaults/vanilla/desert_hills.json
+config/biomesoplenty/biomes/defaults/vanilla/extreme_hills.json
+config/biomesoplenty/biomes/defaults/vanilla/extreme_hills_with_trees.json
+config/biomesoplenty/biomes/defaults/vanilla/forest.json
+config/biomesoplenty/biomes/defaults/vanilla/forest_hills.json
+config/biomesoplenty/biomes/defaults/vanilla/hell.json
+config/biomesoplenty/biomes/defaults/vanilla/ice_flats.json
+config/biomesoplenty/biomes/defaults/vanilla/ice_mountains.json
+config/biomesoplenty/biomes/defaults/vanilla/jungle.json
+config/biomesoplenty/biomes/defaults/vanilla/jungle_hills.json
+config/biomesoplenty/biomes/defaults/vanilla/mesa.json
+config/biomesoplenty/biomes/defaults/vanilla/mesa_clear_rock.json
+config/biomesoplenty/biomes/defaults/vanilla/mushroom_island.json
+config/biomesoplenty/biomes/defaults/vanilla/mutated_forest.json
+config/biomesoplenty/biomes/defaults/vanilla/ocean.json
+config/biomesoplenty/biomes/defaults/vanilla/plains.json
+config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga.json
+config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga_hills.json
+config/biomesoplenty/biomes/defaults/vanilla/roofed_forest.json
+config/biomesoplenty/biomes/defaults/vanilla/savanna.json
+config/biomesoplenty/biomes/defaults/vanilla/savanna_rock.json
+config/biomesoplenty/biomes/defaults/vanilla/sky.json
+config/biomesoplenty/biomes/defaults/vanilla/swampland.json
+config/biomesoplenty/biomes/defaults/vanilla/taiga.json
+config/biomesoplenty/biomes/defaults/vanilla/taiga_cold.json
+config/biomesoplenty/biomes/defaults/vanilla/taiga_cold_hills.json
+config/biomesoplenty/biomes/defaults/vanilla/taiga_hills.json
+config/biomesoplenty/biomes/Put biome config files here
+config/biomesoplenty/gameplay.cfg
+config/biomesoplenty/misc.cfg
+config/bloodmagic/bloodmagic.cfg
+config/bloodmagic/meteors/diamond.json
+config/bloodmagic/meteors/gold.json
+config/bloodmagic/meteors/iron.json
+config/bloodmagic/rituals.cfg
+config/bookshelf.cfg
+config/botania.cfg
+config/brandon3055/BrandonsCore.cfg
+config/brandon3055/Custom Fusion Recipe Info.txt
+config/brandon3055/DraconicEvolution.cfg
+config/brandon3055/ProjectIntelligence/manifest.json
+config/brandon3055/ProjectIntelligence/ModDocs/Draconic Evolution/draconicevolution-en_US.xml
+config/brandon3055/ProjectIntelligence/options.json
+config/brandon3055/ProjectIntelligence/projectintelligence.xml
+config/Building Gadgets.cfg
+config/charset/charset.cfg
+config/charset/ids.cfg
+config/charset/module/lib.cfg
+config/charset/module/storage.barrels.cfg
+config/charset/modules.cfg
+config/chisel.cfg
+config/chiselsandbits.cfg
+config/chiselsandbits_clipboard.cfg
+config/codechicken/supporters.json
+config/codechicken/supporters.marker
+config/codechickenlib.cfg
+config/cofh/core/client.cfg
+config/cofh/core/common.cfg
+config/cofh/core/friends.cfg
+config/cofh/thermaldynamics/client.cfg
+config/cofh/thermaldynamics/common.cfg
+config/cofh/thermaldynamics/cover_blacklist.json
+config/cofh/thermalexpansion/client.cfg
+config/cofh/thermalexpansion/common.cfg
+config/cofh/thermalexpansion/florbs.cfg
+config/cofh/thermalexpansion/morbs.cfg
+config/cofh/thermalfoundation/client.cfg
+config/cofh/thermalfoundation/common.cfg
+config/cofh/thermalfoundation/lexicon-whitelist.cfg
+config/cofh/world/00_minecraft.json
+config/cofh/world/01_thermalfoundation_ores.json
+config/cofh/world/02_thermalfoundation_oil.json
+config/cofh/world/03_thermalfoundation_clathrates.json
+config/cofh/world/config.cfg
+config/conarm.cfg
+config/ctm.cfg
+config/darkutils.cfg
+config/decocraft.cfg
+config/dimdoors.cfg
+config/ding.cfg
+config/DivineRPG/divinerpg.cfg
+config/DivineRPG/divinerpg_mob_stats.cfg
+config/DLDungeonsJBG/BlockFamilies/crumbling_walls1.json
+config/DLDungeonsJBG/BlockFamilies/crumbling_walls2.json
+config/DLDungeonsJBG/BlockFamilies/mixedbricks1.json
+config/DLDungeonsJBG/BlockFamilies/mixedbricks2.json
+config/DLDungeonsJBG/BlockFamilies/mixedbricks3.json
+config/DLDungeonsJBG/BlockFamilies/mixedcobble.json
+config/DLDungeonsJBG/chests.cfg
+config/DLDungeonsJBG/DLDungeonsJBG.cfg
+config/DLDungeonsJBG/nbt.cfg
+config/DLDungeonsJBG/SpecialChests/oceanic_chests.cfg
+config/DLDungeonsJBG/themes/common.cfg
+config/DLDungeonsJBG/themes/continentalShelf.cfg
+config/DLDungeonsJBG/themes/dank.cfg
+config/DLDungeonsJBG/themes/desert.cfg
+config/DLDungeonsJBG/themes/frozen.cfg
+config/DLDungeonsJBG/themes/jungle.cfg
+config/DLDungeonsJBG/themes/mesa.cfg
+config/DLDungeonsJBG/themes/nether.cfg
+config/DLDungeonsJBG/themes/oceanic.cfg
+config/DLDungeonsJBG/themes/template.cfg
+config/DLDungeonsJBG/themes/urban.cfg
+config/DLDungeonsJBG/themes/villagelike.cfg
+config/DLDungeonsJBG/themes/volcanic.cfg
+config/dynamictrees.cfg
+config/dynamictrees/dimensions.json
+config/dynamictrees/worldgen.json
+config/endercore/cropconfig.json
+config/endercore/endercore.cfg
+config/endercrop.cfg
+config/enderio/enderio.cfg
+config/enderio/enderioconduits.cfg
+config/enderio/enderiointegrationforestry.cfg
+config/enderio/enderiomachines.cfg
+config/enderio/enderiopowertools.cfg
+config/enderio/painter_paint_sources_core.xml
+config/enderio/painter_paint_sources_user.xml
+config/enderio/recipes/aliases.pdf
+config/enderio/recipes/alloying.pdf
+config/enderio/recipes/alloying_modded.pdf
+config/enderio/recipes/balls.pdf
+config/enderio/recipes/base.pdf
+config/enderio/recipes/capacitor.pdf
+config/enderio/recipes/capacitor_machines.pdf
+config/enderio/recipes/conduits-applied-energistics.pdf
+config/enderio/recipes/conduits-opencomputers.pdf
+config/enderio/recipes/conduits.pdf
+config/enderio/recipes/darksteel_upgrades.pdf
+config/enderio/recipes/darksteel_upgrades_machines.pdf
+config/enderio/recipes/enchanter.pdf
+config/enderio/recipes/examples/broken_spawner.xml
+config/enderio/recipes/examples/cheap_machines.xml
+config/enderio/recipes/examples/cheap_materials.xml
+config/enderio/recipes/examples/cheaty_spawner.xml
+config/enderio/recipes/examples/conduits_easy_recipes.xml
+config/enderio/recipes/examples/conduits_hard_recipes.xml
+config/enderio/recipes/examples/easy_recipes.xml
+config/enderio/recipes/examples/hard_recipes.xml
+config/enderio/recipes/examples/infinity.xml
+config/enderio/recipes/examples/legacy_recipes.xml
+config/enderio/recipes/examples/machines_easy_recipes.xml
+config/enderio/recipes/examples/optional_tweaks.xml
+config/enderio/recipes/examples/peaceful.xml
+config/enderio/recipes/examples/powertools_easy_recipes.xml
+config/enderio/recipes/examples/recipes.xsd
+config/enderio/recipes/examples/sagmill_dupe_recipe_patches.xml
+config/enderio/recipes/examples/strict_iron.xml
+config/enderio/recipes/examples/unhide_base.xml
+config/enderio/recipes/fuels.pdf
+config/enderio/recipes/hiding_base.pdf
+config/enderio/recipes/hiding_conduits.pdf
+config/enderio/recipes/hiding_machines.pdf
+config/enderio/recipes/integration_railcraft_recipes.pdf
+config/enderio/recipes/items.pdf
+config/enderio/recipes/machines.pdf
+config/enderio/recipes/materials.pdf
+config/enderio/recipes/misc.pdf
+config/enderio/recipes/powertools.pdf
+config/enderio/recipes/sagmill.pdf
+config/enderio/recipes/sagmill_metals.pdf
+config/enderio/recipes/sagmill_modded.pdf
+config/enderio/recipes/sagmill_ores.pdf
+config/enderio/recipes/sagmill_silentgems.pdf
+config/enderio/recipes/sagmill_vanilla.pdf
+config/enderio/recipes/sagmill_vanilla2modded.pdf
+config/enderio/recipes/soulbinder.pdf
+config/enderio/recipes/spawner.pdf
+config/enderio/recipes/tank.pdf
+config/enderio/recipes/user/recipes.xsd
+config/enderio/recipes/user/user_recipes.xml
+config/enderio/recipes/vat.pdf
+config/enderstorage.cfg
+config/endertanks.cfg
+config/engineersdecor.cfg
+config/environmentaltech/main.cfg
+config/environmentaltech/multiblocks/void_miner/botanic/tier_1.json
+config/environmentaltech/multiblocks/void_miner/botanic/tier_2.json
+config/environmentaltech/multiblocks/void_miner/botanic/tier_3.json
+config/environmentaltech/multiblocks/void_miner/botanic/tier_4.json
+config/environmentaltech/multiblocks/void_miner/botanic/tier_5.json
+config/environmentaltech/multiblocks/void_miner/botanic/tier_6.json
+config/environmentaltech/multiblocks/void_miner/ore/tier_1.json
+config/environmentaltech/multiblocks/void_miner/ore/tier_2.json
+config/environmentaltech/multiblocks/void_miner/ore/tier_3.json
+config/environmentaltech/multiblocks/void_miner/ore/tier_4.json
+config/environmentaltech/multiblocks/void_miner/ore/tier_5.json
+config/environmentaltech/multiblocks/void_miner/ore/tier_6.json
+config/environmentaltech/multiblocks/void_miner/resource/tier_1.json
+config/environmentaltech/multiblocks/void_miner/resource/tier_2.json
+config/environmentaltech/multiblocks/void_miner/resource/tier_3.json
+config/environmentaltech/multiblocks/void_miner/resource/tier_4.json
+config/environmentaltech/multiblocks/void_miner/resource/tier_5.json
+config/environmentaltech/multiblocks/void_miner/resource/tier_6.json
+config/extrabows.cfg
+config/extrautils2.cfg
+config/Extreme Reactors/Extreme Reactors.cfg
+config/fairylights.cfg
+config/fastbench.cfg
+config/forge.cfg
+config/forgeChunkLoading.cfg
+config/gravestone.cfg
+config/grimoireofgaia.cfg
+config/Guide-API/Guide-API.cfg
+config/harvest_config.json
+config/harvestcraft.cfg
+config/harvestcraft_fruittree.cfg
+config/hungeroverhaul/blankslate.cfg
+config/hungeroverhaul/default.cfg
+config/hungeroverhaul/HungerOverhaul.cfg
+config/InvTweaks.cfg
+config/InvTweaksRules.txt
+config/InvTweaksTree.txt
+config/ironbackpacks/blacklist.json
+config/ironbackpacks/ironbackpacks.cfg
+config/ironchest.cfg
+config/jei/itemBlacklist.cfg
+config/jei/jei.cfg
+config/jei/searchColors.cfg
+config/jei/worldSettings.cfg
+config/jeresources/jeresources.cfg
+config/journeymap_ModInfo.cfg
+config/journeymap_server.cfg
+config/librarianlib.cfg
+config/LLOverlayReloaded.cfg
+config/mcjtylib.cfg
+config/mekanism.cfg
+config/mekanism/BoxBlacklist.txt
+config/microblocks.cfg
+config/midnight.cfg
+config/modnametooltip.cfg
+config/mowziesmobs.cfg
+config/MrTJPCore.cfg
+config/multipart.cfg
+config/mysticalagriculture.cfg
+config/mysticalagriculture_recipes.cfg
+config/neat.cfg
+config/netherex/netherex.cfg
+config/omlib.cfg
+config/opencomputers/default.recipes
+config/opencomputers/gregtech.recipes
+config/opencomputers/hardmode.recipes
+config/opencomputers/peaceful.recipes
+config/opencomputers/settings.conf
+config/opencomputers/user.recipes
+config/openmodularturrets.cfg
+config/placebo.cfg
+config/ProjectE/custom_emc.json
+config/ProjectE/customConversions/defaults.json
+config/ProjectE/customConversions/example.json
+config/ProjectE/customConversions/metals.json
+config/ProjectE/customConversions/ODdefaults.json
+config/ProjectE/mapping.cfg
+config/ProjectE/nbt_whitelist.json
+config/ProjectE/ProjectE.cfg
+config/ProjectRed.cfg
+config/psi.cfg
+config/ptrmodellib.cfg
+config/railcraft/blocks.cfg
+config/railcraft/client.cfg
+config/railcraft/entities.cfg
+config/railcraft/items.cfg
+config/railcraft/modules.cfg
+config/railcraft/ores/mine_copper.cfg
+config/railcraft/ores/mine_gold.cfg
+config/railcraft/ores/mine_iron.cfg
+config/railcraft/ores/mine_lead.cfg
+config/railcraft/ores/mine_nickel.cfg
+config/railcraft/ores/mine_silver.cfg
+config/railcraft/ores/mine_tin.cfg
+config/railcraft/ores/mine_zinc.cfg
+config/railcraft/railcraft.cfg
+config/rftools/dimensions.cfg
+config/rftools/dimlets.json
+config/rftools/rftools.cfg
+config/roguelike_dungeons/roguelike.cfg
+config/shetiphiancore.cfg
+config/solcarrot.cfg
+config/splash.properties
+config/stevescarts.cfg
+config/tconstruct.cfg
+config/teamreborn/configData.nbt
+config/teamreborn/reborncore/client.cfg
+config/teamreborn/reborncore/misc.cfg
+config/teamreborn/reborncore/power.cfg
+config/teamreborn/reborncore/selected_energy.json
+config/teamreborn/reborncore/upgrades.cfg
+config/thaumcraft_graphics.cfg
+config/thaumcraft_misc.cfg
+config/thaumcraft_world.cfg
+config/thaumicjei.cfg
+config/thaumicjei_itemstack_aspects.json
+config/theoneprobe.cfg
+config/TinkerModules.cfg
+config/TinkerToolLeveling.cfg
+config/torchmaster.cfg
+config/totemdefender.cfg
+config/unidict/IntegrationModule.cfg
+config/unidict/UniDict.cfg
+config/valkyrielib/main.cfg
+config/waila/theme/dark.json
+config/waila/theme/vanilla.json
+config/waila/waila.cfg
+config/Waystones.cfg
+config/wizardry.cfg
+config/wizardry/fire_recipes/devil_dust.json
+config/wizardry/fire_recipes/devil_dust_secondary.json
+config/wizardry/fire_recipes/sky_dust.json
+config/wizardry/fluid_recipes/codex.json
+config/wizardry/fluid_recipes/mana_battery.json
+config/wizardry/fluid_recipes/mana_orb.json
+config/wizardry/fluid_recipes/nacre.json
+config/wizardry/fluid_recipes/temp_real_halo.json
+config/wizardry/fluid_recipes/unicorn_dagger.json
+config/wizardry/fluid_recipes/wisdom_door.json
+config/wizardry/fluid_recipes/wisdom_fence.json
+config/wizardry/fluid_recipes/wisdom_fence_gate.json
+config/wizardry/fluid_recipes/wisdom_leaves.json
+config/wizardry/fluid_recipes/wisdom_log.json
+config/wizardry/fluid_recipes/wisdom_plank.json
+config/wizardry/fluid_recipes/wisdom_sapling.json
+config/wizardry/fluid_recipes/wisdom_slab.json
+config/wizardry/fluid_recipes/wisdom_stairs.json
+config/wizardry/fluid_recipes/wisdom_stick.json
+config/wizardry/wizManifest.json
+config/wizardry/wizmodules/effect_anti_gravity_well.json
+config/wizardry/wizmodules/effect_backup.json
+config/wizardry/wizmodules/effect_bouncing.json
+config/wizardry/wizmodules/effect_break.json
+config/wizardry/wizmodules/effect_burn.json
+config/wizardry/wizmodules/effect_crasher_fall.json
+config/wizardry/wizmodules/effect_decay.json
+config/wizardry/wizmodules/effect_extract.json
+config/wizardry/wizmodules/effect_frost.json
+config/wizardry/wizmodules/effect_grace.json
+config/wizardry/wizmodules/effect_gravity_well.json
+config/wizardry/wizmodules/effect_leap.json
+config/wizardry/wizmodules/effect_leech.json
+config/wizardry/wizmodules/effect_light.json
+config/wizardry/wizmodules/effect_lightning.json
+config/wizardry/wizmodules/effect_low_gravity.json
+config/wizardry/wizmodules/effect_phase.json
+config/wizardry/wizmodules/effect_place.json
+config/wizardry/wizmodules/effect_poison_cloud.json
+config/wizardry/wizmodules/effect_shatter.json
+config/wizardry/wizmodules/effect_sonic.json
+config/wizardry/wizmodules/effect_substitution.json
+config/wizardry/wizmodules/effect_suffocate.json
+config/wizardry/wizmodules/effect_telekinesis.json
+config/wizardry/wizmodules/effect_thrive.json
+config/wizardry/wizmodules/effect_time_lock.json
+config/wizardry/wizmodules/effect_time_slow.json
+config/wizardry/wizmodules/effect_vanish.json
+config/wizardry/wizmodules/effect_zoom.json
+config/wizardry/wizmodules/modifier_extend_range.json
+config/wizardry/wizmodules/modifier_extend_time.json
+config/wizardry/wizmodules/modifier_increase_aoe.json
+config/wizardry/wizmodules/modifier_increase_potency.json
+config/wizardry/wizmodules/modifier_increase_speed.json
+config/wizardry/wizmodules/shape_beam.json
+config/wizardry/wizmodules/shape_cone.json
+config/wizardry/wizmodules/shape_fairy.json
+config/wizardry/wizmodules/shape_projectile.json
+config/wizardry/wizmodules/shape_self.json
+config/wizardry/wizmodules/shape_touch.json
+config/wizardry/wizmodules/shape_zone.json
+config/xreliquary.cfg
+crafttweaker.log
+crash-reports/crash-2020-05-09_07.27.34-client.txt
+crash-reports/crash-2020-05-09_10.29.13-client.txt
+journeymap/config/5.7/journeymap.core.config
+journeymap/config/5.7/journeymap.fullmap.config
+journeymap/config/5.7/journeymap.minimap.config
+journeymap/config/5.7/journeymap.minimap2.config
+journeymap/config/5.7/journeymap.topo.config
+journeymap/config/5.7/journeymap.waypoint.config
+journeymap/config/5.7/journeymap.webmap.config
+journeymap/data/mp/Minecraft~Server/DIM0/0/-1,-1.png
+journeymap/data/mp/Minecraft~Server/DIM0/0/-1,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/0/0,-1.png
+journeymap/data/mp/Minecraft~Server/DIM0/0/0,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/4/-1,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/4/0,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/day/-1,-1.png
+journeymap/data/mp/Minecraft~Server/DIM0/day/-1,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/day/-1,1.png
+journeymap/data/mp/Minecraft~Server/DIM0/day/-2,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/day/-2,1.png
+journeymap/data/mp/Minecraft~Server/DIM0/day/0,-1.png
+journeymap/data/mp/Minecraft~Server/DIM0/day/0,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/night/-1,-1.png
+journeymap/data/mp/Minecraft~Server/DIM0/night/-1,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/night/-1,1.png
+journeymap/data/mp/Minecraft~Server/DIM0/night/-2,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/night/-2,1.png
+journeymap/data/mp/Minecraft~Server/DIM0/night/0,-1.png
+journeymap/data/mp/Minecraft~Server/DIM0/night/0,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/topo/-1,-1.png
+journeymap/data/mp/Minecraft~Server/DIM0/topo/-1,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/topo/-1,1.png
+journeymap/data/mp/Minecraft~Server/DIM0/topo/-2,0.png
+journeymap/data/mp/Minecraft~Server/DIM0/topo/-2,1.png
+journeymap/data/mp/Minecraft~Server/DIM0/topo/0,-1.png
+journeymap/data/mp/Minecraft~Server/DIM0/topo/0,0.png
+journeymap/data/mp/Minecraft~Server/waypoints/Death 07_09_23 05-09-2020_-460,64,480.json
+journeymap/data/mp/Minecraft~Server/waypoints/Death 21_15_24 05-11-2020_0,2,0.json
+journeymap/data/sp/New World/DIM0/day/-1,0.png
+journeymap/data/sp/New World/DIM0/day/0,0.png
+journeymap/data/sp/New World/DIM0/night/-1,0.png
+journeymap/data/sp/New World/DIM0/night/0,0.png
+journeymap/data/sp/New World/DIM0/topo/-1,0.png
+journeymap/data/sp/New World/DIM0/topo/0,0.png
+journeymap/data/sp/New World~/DIM0/4/0,-1.png
+journeymap/data/sp/New World~/DIM0/day/-1,-1.png
+journeymap/data/sp/New World~/DIM0/day/-1,0.png
+journeymap/data/sp/New World~/DIM0/day/0,-1.png
+journeymap/data/sp/New World~/DIM0/day/0,0.png
+journeymap/data/sp/New World~/DIM0/night/-1,-1.png
+journeymap/data/sp/New World~/DIM0/night/-1,0.png
+journeymap/data/sp/New World~/DIM0/night/0,-1.png
+journeymap/data/sp/New World~/DIM0/night/0,0.png
+journeymap/data/sp/New World~/DIM0/topo/-1,-1.png
+journeymap/data/sp/New World~/DIM0/topo/-1,0.png
+journeymap/data/sp/New World~/DIM0/topo/0,-1.png
+journeymap/data/sp/New World~/DIM0/topo/0,0.png
+journeymap/icon/theme/default.theme.config
+journeymap/icon/theme/flat/container/htoolbar_begin.png
+journeymap/icon/theme/flat/container/htoolbar_end.png
+journeymap/icon/theme/flat/container/htoolbar_inner.png
+journeymap/icon/theme/flat/container/vtoolbar_begin.png
+journeymap/icon/theme/flat/container/vtoolbar_end.png
+journeymap/icon/theme/flat/container/vtoolbar_inner.png
+journeymap/icon/theme/flat/control/flat_button_disabled.png
+journeymap/icon/theme/flat/control/flat_button_hover.png
+journeymap/icon/theme/flat/control/flat_button_off.png
+journeymap/icon/theme/flat/control/flat_button_on.png
+journeymap/icon/theme/flat/control/flat_toggle_disabled.png
+journeymap/icon/theme/flat/control/flat_toggle_hover.png
+journeymap/icon/theme/flat/control/flat_toggle_off.png
+journeymap/icon/theme/flat/control/flat_toggle_on.png
+journeymap/icon/theme/flat/DesertTemple.theme2.json
+journeymap/icon/theme/flat/EndCity.theme2.json
+journeymap/icon/theme/flat/ForestMansion.theme2.json
+journeymap/icon/theme/flat/icon/about.png
+journeymap/icon/theme/flat/icon/actions.png
+journeymap/icon/theme/flat/icon/alert.png
+journeymap/icon/theme/flat/icon/animals.png
+journeymap/icon/theme/flat/icon/automap.png
+journeymap/icon/theme/flat/icon/biome.png
+journeymap/icon/theme/flat/icon/browser.png
+journeymap/icon/theme/flat/icon/caves.png
+journeymap/icon/theme/flat/icon/close.png
+journeymap/icon/theme/flat/icon/day.png
+journeymap/icon/theme/flat/icon/delete.png
+journeymap/icon/theme/flat/icon/disable.png
+journeymap/icon/theme/flat/icon/follow.png
+journeymap/icon/theme/flat/icon/grid.png
+journeymap/icon/theme/flat/icon/keys.png
+journeymap/icon/theme/flat/icon/layers.png
+journeymap/icon/theme/flat/icon/monsters.png
+journeymap/icon/theme/flat/icon/night.png
+journeymap/icon/theme/flat/icon/options.png
+journeymap/icon/theme/flat/icon/pets.png
+journeymap/icon/theme/flat/icon/players.png
+journeymap/icon/theme/flat/icon/reset.png
+journeymap/icon/theme/flat/icon/savemap.png
+journeymap/icon/theme/flat/icon/search.png
+journeymap/icon/theme/flat/icon/server.png
+journeymap/icon/theme/flat/icon/theme.png
+journeymap/icon/theme/flat/icon/topo.png
+journeymap/icon/theme/flat/icon/villagers.png
+journeymap/icon/theme/flat/icon/waypoints.png
+journeymap/icon/theme/flat/icon/zoomin.png
+journeymap/icon/theme/flat/icon/zoomout.png
+journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png
+journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png
+journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png
+journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png
+journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png
+journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png
+journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png
+journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png
+journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png
+journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png
+journeymap/icon/theme/flat/minimap/square/flat_bottom.png
+journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png
+journeymap/icon/theme/flat/minimap/square/flat_bottomright.png
+journeymap/icon/theme/flat/minimap/square/flat_compass_point.png
+journeymap/icon/theme/flat/minimap/square/flat_left.png
+journeymap/icon/theme/flat/minimap/square/flat_right.png
+journeymap/icon/theme/flat/minimap/square/flat_top.png
+journeymap/icon/theme/flat/minimap/square/flat_topleft.png
+journeymap/icon/theme/flat/minimap/square/flat_topright.png
+journeymap/icon/theme/flat/minimap/square/pur_bottom.png
+journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png
+journeymap/icon/theme/flat/minimap/square/pur_bottomright.png
+journeymap/icon/theme/flat/minimap/square/pur_compass_point.png
+journeymap/icon/theme/flat/minimap/square/pur_left.png
+journeymap/icon/theme/flat/minimap/square/pur_right.png
+journeymap/icon/theme/flat/minimap/square/pur_top.png
+journeymap/icon/theme/flat/minimap/square/pur_topleft.png
+journeymap/icon/theme/flat/minimap/square/pur_topright.png
+journeymap/icon/theme/flat/NetherFortress.theme2.json
+journeymap/icon/theme/flat/OceanMonument.theme2.json
+journeymap/icon/theme/flat/Purist.theme2.json
+journeymap/icon/theme/flat/Stronghold.theme2.json
+journeymap/journeymap.log
+journeymap/server/5.7/journeymap.server.default.config
+journeymap/server/5.7/journeymap.server.dim-1.config
+journeymap/server/5.7/journeymap.server.dim-11325.config
+journeymap/server/5.7/journeymap.server.dim-23.config
+journeymap/server/5.7/journeymap.server.dim-9999.config
+journeymap/server/5.7/journeymap.server.dim0.config
+journeymap/server/5.7/journeymap.server.dim1.config
+journeymap/server/5.7/journeymap.server.dim2.config
+journeymap/server/5.7/journeymap.server.dim33.config
+journeymap/server/5.7/journeymap.server.dim34.config
+journeymap/server/5.7/journeymap.server.dim420.config
+journeymap/server/5.7/journeymap.server.dim421.config
+journeymap/server/5.7/journeymap.server.dim422.config
+journeymap/server/5.7/journeymap.server.dim423.config
+journeymap/server/5.7/journeymap.server.dim424.config
+journeymap/server/5.7/journeymap.server.dim425.config
+journeymap/server/5.7/journeymap.server.dim426.config
+journeymap/server/5.7/journeymap.server.dim427.config
+journeymap/server/5.7/journeymap.server.dim50.config
+journeymap/server/5.7/journeymap.server.dim51.config
+journeymap/server/5.7/journeymap.server.dim52.config
+journeymap/server/5.7/journeymap.server.dim53.config
+journeymap/server/5.7/journeymap.server.dim684.config
+journeymap/server/5.7/journeymap.server.dim685.config
+journeymap/server/5.7/journeymap.server.dim686.config
+journeymap/server/5.7/journeymap.server.dim687.config
+journeymap/server/5.7/journeymap.server.dim688.config
+journeymap/server/5.7/journeymap.server.dim800.config
+journeymap/server/5.7/journeymap.server.dim801.config
+journeymap/server/5.7/journeymap.server.dim802.config
+journeymap/server/5.7/journeymap.server.dim803.config
+journeymap/server/5.7/journeymap.server.dim804.config
+journeymap/server/5.7/journeymap.server.dim805.config
+journeymap/server/5.7/journeymap.server.dim806.config
+journeymap/server/5.7/journeymap.server.dim807.config
+journeymap/server/5.7/journeymap.server.dim808.config
+journeymap/server/5.7/journeymap.server.dim809.config
+journeymap/server/5.7/journeymap.server.dim810.config
+journeymap/server/5.7/journeymap.server.dim811.config
+journeymap/server/5.7/journeymap.server.dim812.config
+journeymap/server/5.7/journeymap.server.dim813.config
+journeymap/server/5.7/journeymap.server.dim814.config
+journeymap/server/5.7/journeymap.server.dim815.config
+journeymap/server/5.7/journeymap.server.dim816.config
+journeymap/server/5.7/journeymap.server.dim817.config
+journeymap/server/5.7/journeymap.server.dim818.config
+journeymap/server/5.7/journeymap.server.dim819.config
+journeymap/server/5.7/journeymap.server.dim820.config
+journeymap/server/5.7/journeymap.server.dim821.config
+journeymap/server/5.7/journeymap.server.global.config
+llibrary/config.dat
+llibrary/debug/net.minecraft.client.model.ModelBiped.class
+llibrary/debug/net.minecraft.client.renderer.entity.RenderLivingBase.class
+llibrary/debug/net.minecraft.client.renderer.entity.RenderPlayer.class
+llibrary/debug/net.minecraft.client.renderer.EntityRenderer.class
+llibrary/debug/net.minecraft.client.renderer.tileentity.TileEntityItemStackRenderer.class
+llibrary/debug/net.minecraft.client.resources.Locale.class
+llibrary/debug/net.minecraft.server.MinecraftServer.class
+llibrary/debug/net.minecraftforge.client.ForgeHooksClient.class
+logs/2020-05-09-1.log.gz
+logs/2020-05-09-2.log.gz
+logs/2020-05-09-3.log.gz
+logs/2020-05-09-4.log.gz
+logs/2020-05-09-5.log.gz
+logs/2020-05-09-6.log.gz
+logs/2020-05-09-7.log.gz
+logs/2020-05-10-1.log.gz
+logs/2020-05-10-2.log.gz
+logs/latest.log
+mc-cataclysm/
+minecraftinstance.json
+OpenComputersMod-1.7.5.192-lua52-native.64.dll
+OpenComputersMod-1.7.5.192-lua53-native.64.dll
+options.txt
+saves/New World--/Abyssal_Wasteland/data/capabilities.dat
+saves/New World--/Abyssal_Wasteland/data/villages_aw.dat
+saves/New World--/Abyssal_Wasteland/forcedchunks.dat
+saves/New World--/Abyssal_Wasteland/multipart.dat
+saves/New World--/advancements/8f01bb1e-f20f-4e27-8fb0-862ae6663790.json
+saves/New World--/AE2/compass/0_-1024_0.dat
+saves/New World--/AE2/compass/0_0_0.dat
+saves/New World--/AE2/settings.cfg
+saves/New World--/AE2/spawndata/0_-1_-1.dat
+saves/New World--/AE2/spawndata/0_-1_0.dat
+saves/New World--/AE2/spawndata/0_-1_1.dat
+saves/New World--/AE2/spawndata/0_-2_0.dat
+saves/New World--/AE2/spawndata/0_-2_1.dat
+saves/New World--/AE2/spawndata/0_0_-1.dat
+saves/New World--/AE2/spawndata/0_0_0.dat
+saves/New World--/AE2/spawndata/0_0_1.dat
+saves/New World--/AoA_Abyss/data/capabilities.dat
+saves/New World--/AoA_Abyss/data/villages_abyss.dat
+saves/New World--/AoA_Abyss/forcedchunks.dat
+saves/New World--/AoA_Abyss/multipart.dat
+saves/New World--/AoA_AncientCavern/data/capabilities.dat
+saves/New World--/AoA_AncientCavern/data/villages_ancientcavern.dat
+saves/New World--/AoA_AncientCavern/forcedchunks.dat
+saves/New World--/AoA_AncientCavern/multipart.dat
+saves/New World--/AoA_Barathos/data/capabilities.dat
+saves/New World--/AoA_Barathos/data/villages_barathos.dat
+saves/New World--/AoA_Barathos/forcedchunks.dat
+saves/New World--/AoA_Barathos/multipart.dat
+saves/New World--/AoA_Candyland/data/capabilities.dat
+saves/New World--/AoA_Candyland/data/villages_candyland.dat
+saves/New World--/AoA_Candyland/forcedchunks.dat
+saves/New World--/AoA_Candyland/multipart.dat
+saves/New World--/AoA_Celeve/data/capabilities.dat
+saves/New World--/AoA_Celeve/data/villages_celeve.dat
+saves/New World--/AoA_Celeve/forcedchunks.dat
+saves/New World--/AoA_Celeve/multipart.dat
+saves/New World--/AoA_Creeponia/data/capabilities.dat
+saves/New World--/AoA_Creeponia/data/villages_creeponia.dat
+saves/New World--/AoA_Creeponia/forcedchunks.dat
+saves/New World--/AoA_Creeponia/multipart.dat
+saves/New World--/AoA_Crystevia/data/capabilities.dat
+saves/New World--/AoA_Crystevia/data/villages_crystevia.dat
+saves/New World--/AoA_Crystevia/forcedchunks.dat
+saves/New World--/AoA_Crystevia/multipart.dat
+saves/New World--/AoA_Deeplands/data/capabilities.dat
+saves/New World--/AoA_Deeplands/data/villages_deeplands.dat
+saves/New World--/AoA_Deeplands/forcedchunks.dat
+saves/New World--/AoA_Deeplands/multipart.dat
+saves/New World--/AoA_Dustopia/data/capabilities.dat
+saves/New World--/AoA_Dustopia/data/villages_dustopia.dat
+saves/New World--/AoA_Dustopia/forcedchunks.dat
+saves/New World--/AoA_Dustopia/multipart.dat
+saves/New World--/AoA_Gardencia/data/capabilities.dat
+saves/New World--/AoA_Gardencia/data/villages_gardencia.dat
+saves/New World--/AoA_Gardencia/forcedchunks.dat
+saves/New World--/AoA_Gardencia/multipart.dat
+saves/New World--/AoA_Greckon/data/capabilities.dat
+saves/New World--/AoA_Greckon/data/villages_greckon.dat
+saves/New World--/AoA_Greckon/forcedchunks.dat
+saves/New World--/AoA_Greckon/multipart.dat
+saves/New World--/AoA_Haven/data/capabilities.dat
+saves/New World--/AoA_Haven/data/villages_haven.dat
+saves/New World--/AoA_Haven/forcedchunks.dat
+saves/New World--/AoA_Haven/multipart.dat
+saves/New World--/AoA_Immortallis/data/capabilities.dat
+saves/New World--/AoA_Immortallis/data/villages_immortallis.dat
+saves/New World--/AoA_Immortallis/forcedchunks.dat
+saves/New World--/AoA_Immortallis/multipart.dat
+saves/New World--/AoA_Iromine/data/capabilities.dat
+saves/New World--/AoA_Iromine/data/villages_iromine.dat
+saves/New World--/AoA_Iromine/forcedchunks.dat
+saves/New World--/AoA_Iromine/multipart.dat
+saves/New World--/AoA_LBorean/data/capabilities.dat
+saves/New World--/AoA_LBorean/data/villages_lborean.dat
+saves/New World--/AoA_LBorean/forcedchunks.dat
+saves/New World--/AoA_LBorean/multipart.dat
+saves/New World--/AoA_Lelyetia/data/capabilities.dat
+saves/New World--/AoA_Lelyetia/data/villages_lelyetia.dat
+saves/New World--/AoA_Lelyetia/forcedchunks.dat
+saves/New World--/AoA_Lelyetia/multipart.dat
+saves/New World--/AoA_Lunalus/data/capabilities.dat
+saves/New World--/AoA_Lunalus/data/villages_lunalus.dat
+saves/New World--/AoA_Lunalus/forcedchunks.dat
+saves/New World--/AoA_Lunalus/multipart.dat
+saves/New World--/AoA_Mysterium/data/capabilities.dat
+saves/New World--/AoA_Mysterium/data/villages_mysterium.dat
+saves/New World--/AoA_Mysterium/forcedchunks.dat
+saves/New World--/AoA_Mysterium/multipart.dat
+saves/New World--/AoA_Precasia/data/capabilities.dat
+saves/New World--/AoA_Precasia/data/villages_precasia.dat
+saves/New World--/AoA_Precasia/forcedchunks.dat
+saves/New World--/AoA_Precasia/multipart.dat
+saves/New World--/AoA_Runandor/data/capabilities.dat
+saves/New World--/AoA_Runandor/data/villages_runandor.dat
+saves/New World--/AoA_Runandor/forcedchunks.dat
+saves/New World--/AoA_Runandor/multipart.dat
+saves/New World--/AoA_Shyrelands/data/capabilities.dat
+saves/New World--/AoA_Shyrelands/data/villages_shyrelands.dat
+saves/New World--/AoA_Shyrelands/forcedchunks.dat
+saves/New World--/AoA_Shyrelands/multipart.dat
+saves/New World--/AoA_VoxPonds/data/capabilities.dat
+saves/New World--/AoA_VoxPonds/data/villages_voxponds.dat
+saves/New World--/AoA_VoxPonds/forcedchunks.dat
+saves/New World--/AoA_VoxPonds/multipart.dat
+saves/New World--/Apalachia/data/capabilities.dat
+saves/New World--/Apalachia/data/villages_apalachia.dat
+saves/New World--/Apalachia/forcedchunks.dat
+saves/New World--/Apalachia/multipart.dat
+saves/New World--/Arcana/data/capabilities.dat
+saves/New World--/Arcana/data/villages_arcana.dat
+saves/New World--/Arcana/forcedchunks.dat
+saves/New World--/Arcana/multipart.dat
+saves/New World--/AstralSorceryData/DIM_0/lightnetwork.dat
+saves/New World--/AstralSorceryData/DIM_0/structures.dat
+saves/New World--/config/netherex/nether_biomes/biomesoplenty/corrupted_sands.json
+saves/New World--/config/netherex/nether_biomes/biomesoplenty/fungi_forest.json
+saves/New World--/config/netherex/nether_biomes/biomesoplenty/phantasmagoric_inferno.json
+saves/New World--/config/netherex/nether_biomes/biomesoplenty/undergarden.json
+saves/New World--/config/netherex/nether_biomes/biomesoplenty/visceral_heap.json
+saves/New World--/config/netherex/nether_biomes/minecraft/hell.json
+saves/New World--/config/netherex/nether_biomes/netherex/arctic_abyss.json
+saves/New World--/config/netherex/nether_biomes/netherex/fungi_forest.json
+saves/New World--/config/netherex/nether_biomes/netherex/ruthless_sands.json
+saves/New World--/config/netherex/nether_biomes/netherex/torrid_wasteland.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/armorsmith.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/brewer.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/chief.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/enchanter.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/gatherer.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/hunter.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/nincompoop.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/scavenger.json
+saves/New World--/config/netherex/pigtificate_trades/netherex/toolsmith.json
+saves/New World--/data/actuallyadditionsdata.dat
+saves/New World--/data/capabilities.dat
+saves/New World--/data/Mineshaft.dat
+saves/New World--/data/PistonRelayPairs.dat
+saves/New World--/data/railcraft.trains.dat
+saves/New World--/data/Village.dat
+saves/New World--/data/villages.dat
+saves/New World--/data/XU2SaveData.dat
+saves/New World--/DIM-1/data/capabilities.dat
+saves/New World--/DIM-1/data/villages_nether.dat
+saves/New World--/DIM-1/forcedchunks.dat
+saves/New World--/DIM-1/multipart.dat
+saves/New World--/DIM-11325/data/capabilities.dat
+saves/New World--/DIM-11325/data/villages_deep.dark.dat
+saves/New World--/DIM-11325/forcedchunks.dat
+saves/New World--/DIM-11325/multipart.dat
+saves/New World--/DIM-23/data/capabilities.dat
+saves/New World--/DIM-23/data/villages_midnight.dat
+saves/New World--/DIM-23/forcedchunks.dat
+saves/New World--/DIM-23/multipart.dat
+saves/New World--/DIM-9999/data/capabilities.dat
+saves/New World--/DIM-9999/data/villages_extrautilsquarrydim.dat
+saves/New World--/DIM-9999/forcedchunks.dat
+saves/New World--/DIM-9999/multipart.dat
+saves/New World--/DIM1/data/capabilities.dat
+saves/New World--/DIM1/data/villages_end.dat
+saves/New World--/DIM1/forcedchunks.dat
+saves/New World--/DIM1/multipart.dat
+saves/New World--/DIM2/data/capabilities.dat
+saves/New World--/DIM2/data/villages_cell.dat
+saves/New World--/DIM2/forcedchunks.dat
+saves/New World--/DIM2/multipart.dat
+saves/New World--/DIM684/data/capabilities.dat
+saves/New World--/DIM684/data/villages_limbo.dat
+saves/New World--/DIM684/forcedchunks.dat
+saves/New World--/DIM684/multipart.dat
+saves/New World--/DIM685/data/capabilities.dat
+saves/New World--/DIM685/data/villages_private.dat
+saves/New World--/DIM685/forcedchunks.dat
+saves/New World--/DIM685/multipart.dat
+saves/New World--/DIM686/data/capabilities.dat
+saves/New World--/DIM686/data/villages_public.dat
+saves/New World--/DIM686/forcedchunks.dat
+saves/New World--/DIM686/multipart.dat
+saves/New World--/DIM687/data/capabilities.dat
+saves/New World--/DIM687/data/villages_dungeon.dat
+saves/New World--/DIM687/forcedchunks.dat
+saves/New World--/DIM687/multipart.dat
+saves/New World--/DIM688/data/capabilities.dat
+saves/New World--/DIM688/data/villages_dungeon.dat
+saves/New World--/DIM688/forcedchunks.dat
+saves/New World--/DIM688/multipart.dat
+saves/New World--/Eden/data/capabilities.dat
+saves/New World--/Eden/data/villages_eden.dat
+saves/New World--/Eden/forcedchunks.dat
+saves/New World--/Eden/multipart.dat
+saves/New World--/endertanks/[-Public-].dat
+saves/New World--/forcedchunks.dat
+saves/New World--/Iceika/data/capabilities.dat
+saves/New World--/Iceika/data/villages_iceika.dat
+saves/New World--/Iceika/forcedchunks.dat
+saves/New World--/Iceika/multipart.dat
+saves/New World--/icon.png
+saves/New World--/level.dat
+saves/New World--/level.dat_old
+saves/New World--/Mortum/data/capabilities.dat
+saves/New World--/Mortum/data/villages_mortum.dat
+saves/New World--/Mortum/forcedchunks.dat
+saves/New World--/Mortum/multipart.dat
+saves/New World--/multipart.dat
+saves/New World--/Omothol/data/capabilities.dat
+saves/New World--/Omothol/data/villages_omt.dat
+saves/New World--/Omothol/forcedchunks.dat
+saves/New World--/Omothol/multipart.dat
+saves/New World--/playerdata/8f01bb1e-f20f-4e27-8fb0-862ae6663790.astral
+saves/New World--/playerdata/8f01bb1e-f20f-4e27-8fb0-862ae6663790.astralback
+saves/New World--/playerdata/8f01bb1e-f20f-4e27-8fb0-862ae6663790.dat
+saves/New World--/region/r.-1.-1.mca
+saves/New World--/region/r.-1.0.mca
+saves/New World--/region/r.0.-1.mca
+saves/New World--/region/r.0.0.mca
+saves/New World--/session.lock
+saves/New World--/Skythern/data/capabilities.dat
+saves/New World--/Skythern/data/villages_skythern.dat
+saves/New World--/Skythern/forcedchunks.dat
+saves/New World--/Skythern/multipart.dat
+saves/New World--/stats/8f01bb1e-f20f-4e27-8fb0-862ae6663790.json
+saves/New World--/The_Dark_Realm/data/capabilities.dat
+saves/New World--/The_Dark_Realm/data/villages_dl.dat
+saves/New World--/The_Dark_Realm/forcedchunks.dat
+saves/New World--/The_Dark_Realm/multipart.dat
+saves/New World--/The_Dreadlands/data/capabilities.dat
+saves/New World--/The_Dreadlands/data/villages_dl.dat
+saves/New World--/The_Dreadlands/forcedchunks.dat
+saves/New World--/The_Dreadlands/multipart.dat
+saves/New World--/torikki/data/capabilities.dat
+saves/New World--/torikki/data/villages_dim.dat
+saves/New World--/torikki/forcedchunks.dat
+saves/New World--/torikki/multipart.dat
+saves/New World--/underworld/data/capabilities.dat
+saves/New World--/underworld/data/villages_dim.dat
+saves/New World--/underworld/forcedchunks.dat
+saves/New World--/underworld/multipart.dat
+saves/New World--/Vethea/data/capabilities.dat
+saves/New World--/Vethea/data/villages_vethea.dat
+saves/New World--/Vethea/forcedchunks.dat
+saves/New World--/Vethea/multipart.dat
+saves/New World--/WildWood/data/capabilities.dat
+saves/New World--/WildWood/data/villages_wildwood.dat
+saves/New World--/WildWood/forcedchunks.dat
+saves/New World--/WildWood/multipart.dat
+saves/New World-/Abyssal_Wasteland/data/capabilities.dat
+saves/New World-/Abyssal_Wasteland/data/villages_aw.dat
+saves/New World-/Abyssal_Wasteland/forcedchunks.dat
+saves/New World-/Abyssal_Wasteland/multipart.dat
+saves/New World-/advancements/8f01bb1e-f20f-4e27-8fb0-862ae6663790.json
+saves/New World-/AE2/compass/0_-1024_-1024.dat
+saves/New World-/AE2/compass/0_0_-1024.dat
+saves/New World-/AE2/compass/0_0_0.dat
+saves/New World-/AE2/settings.cfg
+saves/New World-/AE2/spawndata/0_-1_-1.dat
+saves/New World-/AE2/spawndata/0_-1_-2.dat
+saves/New World-/AE2/spawndata/0_-1_0.dat
+saves/New World-/AE2/spawndata/0_0_-1.dat
+saves/New World-/AE2/spawndata/0_0_-2.dat
+saves/New World-/AE2/spawndata/0_0_0.dat
+saves/New World-/AE2/spawndata/0_1_-1.dat
+saves/New World-/AE2/spawndata/0_1_-2.dat
+saves/New World-/AE2/spawndata/0_1_0.dat
+saves/New World-/AoA_Abyss/data/capabilities.dat
+saves/New World-/AoA_Abyss/data/villages_abyss.dat
+saves/New World-/AoA_Abyss/forcedchunks.dat
+saves/New World-/AoA_Abyss/multipart.dat
+saves/New World-/AoA_AncientCavern/data/capabilities.dat
+saves/New World-/AoA_AncientCavern/data/villages_ancientcavern.dat
+saves/New World-/AoA_AncientCavern/forcedchunks.dat
+saves/New World-/AoA_AncientCavern/multipart.dat
+saves/New World-/AoA_Barathos/data/capabilities.dat
+saves/New World-/AoA_Barathos/data/villages_barathos.dat
+saves/New World-/AoA_Barathos/forcedchunks.dat
+saves/New World-/AoA_Barathos/multipart.dat
+saves/New World-/AoA_Candyland/data/capabilities.dat
+saves/New World-/AoA_Candyland/data/villages_candyland.dat
+saves/New World-/AoA_Candyland/forcedchunks.dat
+saves/New World-/AoA_Candyland/multipart.dat
+saves/New World-/AoA_Celeve/data/capabilities.dat
+saves/New World-/AoA_Celeve/data/villages_celeve.dat
+saves/New World-/AoA_Celeve/forcedchunks.dat
+saves/New World-/AoA_Celeve/multipart.dat
+saves/New World-/AoA_Creeponia/data/capabilities.dat
+saves/New World-/AoA_Creeponia/data/villages_creeponia.dat
+saves/New World-/AoA_Creeponia/forcedchunks.dat
+saves/New World-/AoA_Creeponia/multipart.dat
+saves/New World-/AoA_Crystevia/data/capabilities.dat
+saves/New World-/AoA_Crystevia/data/villages_crystevia.dat
+saves/New World-/AoA_Crystevia/forcedchunks.dat
+saves/New World-/AoA_Crystevia/multipart.dat
+saves/New World-/AoA_Deeplands/data/capabilities.dat
+saves/New World-/AoA_Deeplands/data/villages_deeplands.dat
+saves/New World-/AoA_Deeplands/forcedchunks.dat
+saves/New World-/AoA_Deeplands/multipart.dat
+saves/New World-/AoA_Dustopia/data/capabilities.dat
+saves/New World-/AoA_Dustopia/data/villages_dustopia.dat
+saves/New World-/AoA_Dustopia/forcedchunks.dat
+saves/New World-/AoA_Dustopia/multipart.dat
+saves/New World-/AoA_Gardencia/data/capabilities.dat
+saves/New World-/AoA_Gardencia/data/villages_gardencia.dat
+saves/New World-/AoA_Gardencia/forcedchunks.dat
+saves/New World-/AoA_Gardencia/multipart.dat
+saves/New World-/AoA_Greckon/data/capabilities.dat
+saves/New World-/AoA_Greckon/data/villages_greckon.dat
+saves/New World-/AoA_Greckon/forcedchunks.dat
+saves/New World-/AoA_Greckon/multipart.dat
+saves/New World-/AoA_Haven/data/capabilities.dat
+saves/New World-/AoA_Haven/data/villages_haven.dat
+saves/New World-/AoA_Haven/forcedchunks.dat
+saves/New World-/AoA_Haven/multipart.dat
+saves/New World-/AoA_Immortallis/data/capabilities.dat
+saves/New World-/AoA_Immortallis/data/villages_immortallis.dat
+saves/New World-/AoA_Immortallis/forcedchunks.dat
+saves/New World-/AoA_Immortallis/multipart.dat
+saves/New World-/AoA_Iromine/data/capabilities.dat
+saves/New World-/AoA_Iromine/data/villages_iromine.dat
+saves/New World-/AoA_Iromine/forcedchunks.dat
+saves/New World-/AoA_Iromine/multipart.dat
+saves/New World-/AoA_LBorean/data/capabilities.dat
+saves/New World-/AoA_LBorean/data/villages_lborean.dat
+saves/New World-/AoA_LBorean/forcedchunks.dat
+saves/New World-/AoA_LBorean/multipart.dat
+saves/New World-/AoA_Lelyetia/data/capabilities.dat
+saves/New World-/AoA_Lelyetia/data/villages_lelyetia.dat
+saves/New World-/AoA_Lelyetia/forcedchunks.dat
+saves/New World-/AoA_Lelyetia/multipart.dat
+saves/New World-/AoA_Lunalus/data/capabilities.dat
+saves/New World-/AoA_Lunalus/data/villages_lunalus.dat
+saves/New World-/AoA_Lunalus/forcedchunks.dat
+saves/New World-/AoA_Lunalus/multipart.dat
+saves/New World-/AoA_Mysterium/data/capabilities.dat
+saves/New World-/AoA_Mysterium/data/villages_mysterium.dat
+saves/New World-/AoA_Mysterium/forcedchunks.dat
+saves/New World-/AoA_Mysterium/multipart.dat
+saves/New World-/AoA_Precasia/data/capabilities.dat
+saves/New World-/AoA_Precasia/data/villages_precasia.dat
+saves/New World-/AoA_Precasia/forcedchunks.dat
+saves/New World-/AoA_Precasia/multipart.dat
+saves/New World-/AoA_Runandor/data/capabilities.dat
+saves/New World-/AoA_Runandor/data/villages_runandor.dat
+saves/New World-/AoA_Runandor/forcedchunks.dat
+saves/New World-/AoA_Runandor/multipart.dat
+saves/New World-/AoA_Shyrelands/data/capabilities.dat
+saves/New World-/AoA_Shyrelands/data/villages_shyrelands.dat
+saves/New World-/AoA_Shyrelands/forcedchunks.dat
+saves/New World-/AoA_Shyrelands/multipart.dat
+saves/New World-/AoA_VoxPonds/data/capabilities.dat
+saves/New World-/AoA_VoxPonds/data/villages_voxponds.dat
+saves/New World-/AoA_VoxPonds/forcedchunks.dat
+saves/New World-/AoA_VoxPonds/multipart.dat
+saves/New World-/AstralSorceryData/DIM_0/structures.dat
+saves/New World-/AstralSorceryData/DIM_0/structures.dat.back
+saves/New World-/config/netherex/nether_biomes/biomesoplenty/corrupted_sands.json
+saves/New World-/config/netherex/nether_biomes/biomesoplenty/fungi_forest.json
+saves/New World-/config/netherex/nether_biomes/biomesoplenty/phantasmagoric_inferno.json
+saves/New World-/config/netherex/nether_biomes/biomesoplenty/undergarden.json
+saves/New World-/config/netherex/nether_biomes/biomesoplenty/visceral_heap.json
+saves/New World-/config/netherex/nether_biomes/minecraft/hell.json
+saves/New World-/config/netherex/nether_biomes/netherex/arctic_abyss.json
+saves/New World-/config/netherex/nether_biomes/netherex/fungi_forest.json
+saves/New World-/config/netherex/nether_biomes/netherex/ruthless_sands.json
+saves/New World-/config/netherex/nether_biomes/netherex/torrid_wasteland.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/armorsmith.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/brewer.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/chief.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/enchanter.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/gatherer.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/hunter.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/nincompoop.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/scavenger.json
+saves/New World-/config/netherex/pigtificate_trades/netherex/toolsmith.json
+saves/New World-/data/actuallyadditionsdata.dat
+saves/New World-/data/capabilities.dat
+saves/New World-/data/Monument.dat
+saves/New World-/data/PistonRelayPairs.dat
+saves/New World-/data/SlimeIslands.dat
+saves/New World-/data/Village.dat
+saves/New World-/data/villages.dat
+saves/New World-/data/XU2SaveData.dat
+saves/New World-/DIM-1/data/capabilities.dat
+saves/New World-/DIM-1/data/villages_nether.dat
+saves/New World-/DIM-1/forcedchunks.dat
+saves/New World-/DIM-1/multipart.dat
+saves/New World-/DIM-11325/data/capabilities.dat
+saves/New World-/DIM-11325/data/villages_deep.dark.dat
+saves/New World-/DIM-11325/forcedchunks.dat
+saves/New World-/DIM-11325/multipart.dat
+saves/New World-/DIM-9999/data/capabilities.dat
+saves/New World-/DIM-9999/data/villages_extrautilsquarrydim.dat
+saves/New World-/DIM-9999/forcedchunks.dat
+saves/New World-/DIM-9999/multipart.dat
+saves/New World-/DIM1/data/capabilities.dat
+saves/New World-/DIM1/data/villages_end.dat
+saves/New World-/DIM1/forcedchunks.dat
+saves/New World-/DIM1/multipart.dat
+saves/New World-/DIM2/data/capabilities.dat
+saves/New World-/DIM2/data/villages_cell.dat
+saves/New World-/DIM2/forcedchunks.dat
+saves/New World-/DIM2/multipart.dat
+saves/New World-/DIM684/data/capabilities.dat
+saves/New World-/DIM684/data/villages_limbo.dat
+saves/New World-/DIM684/forcedchunks.dat
+saves/New World-/DIM684/multipart.dat
+saves/New World-/DIM685/data/capabilities.dat
+saves/New World-/DIM685/data/villages_private.dat
+saves/New World-/DIM685/forcedchunks.dat
+saves/New World-/DIM685/multipart.dat
+saves/New World-/DIM686/data/capabilities.dat
+saves/New World-/DIM686/data/villages_public.dat
+saves/New World-/DIM686/forcedchunks.dat
+saves/New World-/DIM686/multipart.dat
+saves/New World-/DIM687/data/capabilities.dat
+saves/New World-/DIM687/data/villages_dungeon.dat
+saves/New World-/DIM687/forcedchunks.dat
+saves/New World-/DIM687/multipart.dat
+saves/New World-/DIM688/data/capabilities.dat
+saves/New World-/DIM688/data/villages_dungeon.dat
+saves/New World-/DIM688/forcedchunks.dat
+saves/New World-/DIM688/multipart.dat
+saves/New World-/endertanks/[-Public-].dat
+saves/New World-/forcedchunks.dat
+saves/New World-/icon.png
+saves/New World-/level.dat
+saves/New World-/level.dat_old
+saves/New World-/multipart.dat
+saves/New World-/Omothol/data/capabilities.dat
+saves/New World-/Omothol/data/villages_omt.dat
+saves/New World-/Omothol/forcedchunks.dat
+saves/New World-/Omothol/multipart.dat
+saves/New World-/playerdata/8f01bb1e-f20f-4e27-8fb0-862ae6663790.astral
+saves/New World-/playerdata/8f01bb1e-f20f-4e27-8fb0-862ae6663790.astralback
+saves/New World-/playerdata/8f01bb1e-f20f-4e27-8fb0-862ae6663790.dat
+saves/New World-/region/r.-1.-1.mca
+saves/New World-/region/r.-1.0.mca
+saves/New World-/region/r.0.-1.mca
+saves/New World-/region/r.0.0.mca
+saves/New World-/session.lock
+saves/New World-/stats/8f01bb1e-f20f-4e27-8fb0-862ae6663790.json
+saves/New World-/The_Dark_Realm/data/capabilities.dat
+saves/New World-/The_Dark_Realm/data/villages_dl.dat
+saves/New World-/The_Dark_Realm/forcedchunks.dat
+saves/New World-/The_Dark_Realm/multipart.dat
+saves/New World-/The_Dreadlands/data/capabilities.dat
+saves/New World-/The_Dreadlands/data/villages_dl.dat
+saves/New World-/The_Dreadlands/forcedchunks.dat
+saves/New World-/The_Dreadlands/multipart.dat
+saves/New World-/torikki/data/capabilities.dat
+saves/New World-/torikki/data/villages_dim.dat
+saves/New World-/torikki/forcedchunks.dat
+saves/New World-/torikki/multipart.dat
+saves/New World-/underworld/data/capabilities.dat
+saves/New World-/underworld/data/villages_dim.dat
+saves/New World-/underworld/forcedchunks.dat
+saves/New World-/underworld/multipart.dat
+saves/New World/advancements/8f01bb1e-f20f-4e27-8fb0-862ae6663790.json
+saves/New World/AE2/compass/0_0_0.dat
+saves/New World/AE2/settings.cfg
+saves/New World/AE2/spawndata/0_0_0.dat
+saves/New World/AE2/spawndata/0_0_1.dat
+saves/New World/AE2/spawndata/0_1_0.dat
+saves/New World/AE2/spawndata/0_1_1.dat
+saves/New World/AoA_Abyss/data/capabilities.dat
+saves/New World/AoA_Abyss/data/villages_abyss.dat
+saves/New World/AoA_Abyss/forcedchunks.dat
+saves/New World/AoA_AncientCavern/data/capabilities.dat
+saves/New World/AoA_AncientCavern/data/villages_ancientcavern.dat
+saves/New World/AoA_AncientCavern/forcedchunks.dat
+saves/New World/AoA_Barathos/data/capabilities.dat
+saves/New World/AoA_Barathos/data/villages_barathos.dat
+saves/New World/AoA_Barathos/forcedchunks.dat
+saves/New World/AoA_Candyland/data/capabilities.dat
+saves/New World/AoA_Candyland/data/villages_candyland.dat
+saves/New World/AoA_Candyland/forcedchunks.dat
+saves/New World/AoA_Celeve/data/capabilities.dat
+saves/New World/AoA_Celeve/data/villages_celeve.dat
+saves/New World/AoA_Celeve/forcedchunks.dat
+saves/New World/AoA_Creeponia/data/capabilities.dat
+saves/New World/AoA_Creeponia/data/villages_creeponia.dat
+saves/New World/AoA_Creeponia/forcedchunks.dat
+saves/New World/AoA_Crystevia/data/capabilities.dat
+saves/New World/AoA_Crystevia/data/villages_crystevia.dat
+saves/New World/AoA_Crystevia/forcedchunks.dat
+saves/New World/AoA_Deeplands/data/capabilities.dat
+saves/New World/AoA_Deeplands/data/villages_deeplands.dat
+saves/New World/AoA_Deeplands/forcedchunks.dat
+saves/New World/AoA_Dustopia/data/capabilities.dat
+saves/New World/AoA_Dustopia/data/villages_dustopia.dat
+saves/New World/AoA_Dustopia/forcedchunks.dat
+saves/New World/AoA_Gardencia/data/capabilities.dat
+saves/New World/AoA_Gardencia/data/villages_gardencia.dat
+saves/New World/AoA_Gardencia/forcedchunks.dat
+saves/New World/AoA_Greckon/data/capabilities.dat
+saves/New World/AoA_Greckon/data/villages_greckon.dat
+saves/New World/AoA_Greckon/forcedchunks.dat
+saves/New World/AoA_Haven/data/capabilities.dat
+saves/New World/AoA_Haven/data/villages_haven.dat
+saves/New World/AoA_Haven/forcedchunks.dat
+saves/New World/AoA_Immortallis/data/capabilities.dat
+saves/New World/AoA_Immortallis/data/villages_immortallis.dat
+saves/New World/AoA_Immortallis/forcedchunks.dat
+saves/New World/AoA_Iromine/data/capabilities.dat
+saves/New World/AoA_Iromine/data/villages_iromine.dat
+saves/New World/AoA_Iromine/forcedchunks.dat
+saves/New World/AoA_LBorean/data/capabilities.dat
+saves/New World/AoA_LBorean/data/villages_lborean.dat
+saves/New World/AoA_LBorean/forcedchunks.dat
+saves/New World/AoA_Lelyetia/data/capabilities.dat
+saves/New World/AoA_Lelyetia/data/villages_lelyetia.dat
+saves/New World/AoA_Lelyetia/forcedchunks.dat
+saves/New World/AoA_Lunalus/data/capabilities.dat
+saves/New World/AoA_Lunalus/data/villages_lunalus.dat
+saves/New World/AoA_Lunalus/forcedchunks.dat
+saves/New World/AoA_Mysterium/data/capabilities.dat
+saves/New World/AoA_Mysterium/data/villages_mysterium.dat
+saves/New World/AoA_Mysterium/forcedchunks.dat
+saves/New World/AoA_Precasia/data/capabilities.dat
+saves/New World/AoA_Precasia/data/villages_precasia.dat
+saves/New World/AoA_Precasia/forcedchunks.dat
+saves/New World/AoA_Runandor/data/capabilities.dat
+saves/New World/AoA_Runandor/data/villages_runandor.dat
+saves/New World/AoA_Runandor/forcedchunks.dat
+saves/New World/AoA_Shyrelands/data/capabilities.dat
+saves/New World/AoA_Shyrelands/data/villages_shyrelands.dat
+saves/New World/AoA_Shyrelands/forcedchunks.dat
+saves/New World/AoA_VoxPonds/data/capabilities.dat
+saves/New World/AoA_VoxPonds/data/villages_voxponds.dat
+saves/New World/AoA_VoxPonds/forcedchunks.dat
+saves/New World/data/actuallyadditionsdata.dat
+saves/New World/data/capabilities.dat
+saves/New World/data/Mineshaft.dat
+saves/New World/data/PistonRelayPairs.dat
+saves/New World/data/Village.dat
+saves/New World/data/villages.dat
+saves/New World/data/XU2SaveData.dat
+saves/New World/DIM-1/data/capabilities.dat
+saves/New World/DIM-1/data/villages_nether.dat
+saves/New World/DIM-1/forcedchunks.dat
+saves/New World/DIM-11325/data/capabilities.dat
+saves/New World/DIM-11325/data/villages_deep.dark.dat
+saves/New World/DIM-11325/forcedchunks.dat
+saves/New World/DIM-9999/data/capabilities.dat
+saves/New World/DIM-9999/data/villages_extrautilsquarrydim.dat
+saves/New World/DIM-9999/forcedchunks.dat
+saves/New World/DIM1/data/capabilities.dat
+saves/New World/DIM1/data/villages_end.dat
+saves/New World/DIM1/forcedchunks.dat
+saves/New World/DIM2/data/capabilities.dat
+saves/New World/DIM2/data/villages_cell.dat
+saves/New World/DIM2/forcedchunks.dat
+saves/New World/forcedchunks.dat
+saves/New World/icon.png
+saves/New World/level.dat
+saves/New World/level.dat_old
+saves/New World/playerdata/8f01bb1e-f20f-4e27-8fb0-862ae6663790.dat
+saves/New World/region/r.-1.0.mca
+saves/New World/region/r.0.-1.mca
+saves/New World/region/r.0.0.mca
+saves/New World/session.lock
+saves/New World/stats/8f01bb1e-f20f-4e27-8fb0-862ae6663790.json
+saves/New World/torikki/data/capabilities.dat
+saves/New World/torikki/data/villages_dim.dat
+saves/New World/torikki/forcedchunks.dat
+saves/New World/underworld/data/capabilities.dat
+saves/New World/underworld/data/villages_dim.dat
+saves/New World/underworld/forcedchunks.dat
+screenshots/2020-05-09_08.31.41.png
+screenshots/2020-05-09_08.31.44.png
+screenshots/2020-05-09_08.31.55.png
+servers.dat
+textures_0.png
+textures_1.png
+textures_2.png
+textures_3.png
+textures_4.png
+usercache.json
+usernamecache.json
+valkyrielib/cache/supporters.json
+saves/New World--/endertanks/[-Public-].dat
+saves/New World-/endertanks/[-Public-].dat
+saves/New World--/endertanks/[-Public-].dat
+saves/New World-/endertanks/[-Public-].dat
